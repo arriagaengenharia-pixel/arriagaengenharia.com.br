@@ -1,0 +1,14 @@
+# AI and IDE related
+.gemini/
+.agent/
+.agents/
+brain/
+tmp/
+*.log
+
+# OS related
+Thumbs.db
+.DS_Store
+
+# Version control
+.git/
